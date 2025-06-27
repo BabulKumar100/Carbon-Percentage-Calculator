@@ -61,6 +61,6 @@ This project is licensed under the MIT License.
 
 ## Connect with Me
 
- - LinkedIn : [Babulkumar](www.linkedin.com/in/babulkumar100)
+ - LinkedIn : [Babulkumar](https://linkedin.com/in/babulkumar100)
 
  - GitHub   : [@BabulKumar100](https://github.com/BabulKumar100)
