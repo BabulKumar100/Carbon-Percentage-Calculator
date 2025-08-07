@@ -29,17 +29,7 @@ A simple web app that estimates the carbon content percentage in everyday object
 
 ## Screenshots
 
-![cabon-percentage-calculator-html](https://github.com/BabulKumar100/Carbon-Percentage-Calculator/blob/dc349b03ae2293a729c3eae0d0f2ad099fa01f38/Carbon-percentage-calculator-html.png)
-
-![carbon-percentage-calculator-css](https://github.com/BabulKumar100/Carbon-Percentage-Calculator/blob/dc349b03ae2293a729c3eae0d0f2ad099fa01f38/carbon-percentage-calculator-css.png)
-
-![carbon-percentage-calculator-js1](https://github.com/BabulKumar100/Carbon-Percentage-Calculator/blob/dc349b03ae2293a729c3eae0d0f2ad099fa01f38/carbon-percentage-calculator-jsx1.png)
-
-![carbon-percentage-calculator-js2](https://github.com/BabulKumar100/Carbon-Percentage-Calculator/blob/dc349b03ae2293a729c3eae0d0f2ad099fa01f38/carbon-percentage-calculator-jsx2.png)
-
-![carbon-percentage-calculator-js3](https://github.com/BabulKumar100/Carbon-Percentage-Calculator/blob/dc349b03ae2293a729c3eae0d0f2ad099fa01f38/carbon-percentage-calculator-jsx3.png)
-
-![carbon-percentage-calculator-UI](https://github.com/BabulKumar100/Carbon-Percentage-Calculator/blob/dc349b03ae2293a729c3eae0d0f2ad099fa01f38/carbon-percentage-calculator-UI.png)
+![carbon-percentage-calculator-UI](https://github.com/BabulKumar100/Carbon-Percentage-Calculator/blob/d6ddfcf15bdba47dff1ff5c66ccf01eba616fc5c/images/carbon-percentage-calculator-UI.png)
 
 ## How to Use
 
