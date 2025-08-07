@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carbon Percentage Calculator</title>
+    <link rel="stylesheet" href="project.css">
+</head>
+<body>
+    <h1>Carbon Percentage Calculator</h1>
+    <p>Automatically estimate carbon content in common objects</p>
+    
+    <div class="calculator">
+        <h2>Enter Object Details</h2>
+        <input type="text" id="objectName" placeholder="Enter object name (e.g., plastic bottle, wooden chair)">
+        <button onclick="calculate()">Estimate Carbon Content</button>
+        
+        <div id="result" class="result"></div>
+        <div id="materialInfo" class="material-info"></div>
+    </div>
+    <script src="project.js"></script>
+</body>
+</html>
